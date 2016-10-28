@@ -1,0 +1,4 @@
+(define window-height 1024)
+(define window-width 720)
+(define window-title "Oh look it is a pong")
+(init-grapics)
