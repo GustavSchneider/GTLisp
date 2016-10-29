@@ -2,4 +2,8 @@
 
 # gulftang
 (define description 'secrets)
-## Lisp interpreter written in C and x86-64 assembly (because we can)
+GTLisp is an "Scheme"interpreter written in C as a 4 week project at KTH.
+
+## Authors:
+Gustav Nelson Schneider
+Tomas Möre
